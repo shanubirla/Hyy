@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.background{
+    background: radial-gradient(circle, transparent 20%, #8fcfec 20%, #a5d2e8 80%, transparent 80%, transparent) 0% 0% / 12px 12px, radial-gradient(circle, transparent 20%, #47c5ff 20%, #47c5ff 80%, transparent 80%, transparent) 12px 12px / 12px 12px, linear-gradient(#cdd5e3 2px, transparent 2px) 0px -1px / 12px 12px, linear-gradient(90deg, #cdd5e3 2px, #47c5ff 2px) -1px 0px / 12px 12px #47c5ff;
+background-size: 12px 12px, 12px 12px, 12px 12px, 12px 12px;
+background-color: #aedbf0;
+}
+
+
+
